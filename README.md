@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Third Year Computer Engineering Student  
-- 🌱 Currently Learning **GenAI, LangChain, LLMs**  
+- 🌱 Currently Learning **GenAI, LLMs**  
 - 💡 Passionate about **AI/ML, Full Stack Development & Scalable Systems**  
 - 🚀 Building impactful real-world applications  
 - 📫 Reach me at **omkarshelar1635@gmail.com**  
