@@ -63,6 +63,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-C++-1a1b27?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN-Next.js-1a1b27?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Science%20%26%20ML-AI-1a1b27?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM%20APIs-OpenAI/Gemini-1a1b27?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
@@ -76,6 +77,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CS%20Fundamentals-OS%20%7C%20CN%20%7C%20DBMS%20%7C%20OOP-1a1b27?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
+
+
 
 ---
 
